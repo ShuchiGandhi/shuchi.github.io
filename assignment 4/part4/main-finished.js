@@ -3,6 +3,8 @@
 // Date : 30-July-2024
 // Description: Assignment 4 part 4
 
+const para = document.querySelector('p');
+let count = 0;
 // set up canvas
 
 const canvas = document.querySelector("canvas");
