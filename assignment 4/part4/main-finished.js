@@ -1,3 +1,8 @@
+// Name: Shuchi Gandhi
+// File : main-finished.js
+// Date : 30-July-2024
+// Description: Assignment 4 part 4
+
 // set up canvas
 
 const canvas = document.querySelector("canvas");
