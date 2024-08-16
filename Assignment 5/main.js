@@ -1,3 +1,8 @@
+// Name: Shuchi Gandhi
+// File : index.html
+// Date : 12-Auguest-2024
+// Description: Assignment 5
+
 // functionality for showing/hiding the comments section
 
 const showHideBtn = document.querySelector('.show-hide');
