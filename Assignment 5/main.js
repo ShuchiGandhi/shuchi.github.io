@@ -1,5 +1,5 @@
 // Name: Shuchi Gandhi
-// File : index.html
+// File : main.js
 // Date : 12-Auguest-2024
 // Description: Assignment 5
 
